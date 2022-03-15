@@ -52,6 +52,14 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/1QwLQkg"
       }
+    },
+    "7": {
+      "title": "Run!",
+      "volume": "1",
+      "last_updated": "1647384220",
+      "groups": {
+        "https://imgur.com/a/ZFKRmBW": ""
+      }
     }
   }
 }
