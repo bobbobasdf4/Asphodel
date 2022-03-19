@@ -6,7 +6,7 @@
   "cover": "",
   "chapters": {
     "1": {
-      "title": "Teacher's Assistant",
+      "title": "Teacher's Assistant (ch1)",
       "volume": "1",
       "last_updated": "1647136910",
       "groups": {
@@ -14,7 +14,7 @@
       }
     },
     "2": {
-      "title": "Karaoke",
+      "title": "Karaoke (ch2)",
       "volume": "1",
       "last_updated": "1647137248",
       "groups": {
@@ -22,7 +22,7 @@
       }
     },
     "3": {
-      "title": "Gaming",
+      "title": "Gaming (ch3)",
       "volume": "1",
       "last_updated": "1647137288",
       "groups": {
@@ -30,7 +30,7 @@
       }
     },
     "4": {
-      "title": "Cooking",
+      "title": "Cooking (ch4)",
       "volume": "1",
       "last_updated": "1647137381",
       "groups": {
@@ -46,7 +46,7 @@
       }
     },
     "6": {
-      "title": "Don't Stick Your Dick in Crazy",
+      "title": "Don't Stick Your Dick in Crazy (ch5)",
       "volume": "1",
       "last_updated": "1647205646",
       "groups": {
@@ -54,7 +54,7 @@
       }
     },
     "7": {
-      "title": "Run!",
+      "title": "Run! (ch6)",
       "volume": "1",
       "last_updated": "1647384220",
       "groups": {
@@ -62,11 +62,19 @@
       }
     },
     "8": {
-      "title": "Bobabo-ba Bo-babo",
+      "title": "Bobabo-ba Bo-babo (ch7)",
       "volume": "1",
       "last_updated": "1647577543",
       "groups": {
         "": "/proxy/api/imgur/chapter/5KKRV0C"
+      }
+    },
+    "9": {
+      "title": "Cooking 2 (ch8)",
+      "volume": "1",
+      "last_updated": "1647656171",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/QouwkFT"
       }
     }
   }
