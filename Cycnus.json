@@ -1,5 +1,5 @@
 {
-  "title": "Cygnus",
+  "title": "AmericanBourneChinese oneshots",
   "description": "",
   "artist": "AmericanBourneChinese",
   "author": "AmericanBourneChinese",
@@ -11,6 +11,14 @@
       "last_updated": "1654289162",
       "groups": {
         "": "/proxy/api/imgur/chapter/OJ6qMCT"
+      }
+    },
+    "2": {
+      "title": "Box",
+      "volume": "",
+      "last_updated": "1656172114",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/XyiIYN3"
       }
     }
   }
