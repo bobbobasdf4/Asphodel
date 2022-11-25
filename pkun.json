@@ -1,0 +1,33 @@
+{
+  "title": "Adventures of P-Kun",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "E",
+      "volume": "",
+      "last_updated": "1669408869",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/qdPXyEX"
+      }
+    },
+    "2": {
+      "title": "In Love",
+      "volume": "",
+      "last_updated": "1669408884",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/3StdmtC"
+      }
+    },
+    "4": {
+      "title": "Angel",
+      "volume": "",
+      "last_updated": "1669408917",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/PNbGFNz"
+      }
+    }
+  }
+}
