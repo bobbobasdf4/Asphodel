@@ -53,20 +53,20 @@
         "": "/proxy/api/imgur/chapter/7TphYRO"
       }
     },
-    "7": {
-      "title": "Merry Blossoms",
-      "volume": "",
-      "last_updated": "1650906388",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/luZzemI"
-      }
-    },
     "8": {
       "title": "Sea-king Regescide Part 1",
       "volume": "",
       "last_updated": "1650906454",
       "groups": {
         "": "/proxy/api/imgur/chapter/8mllwTm"
+      }
+    },
+    "9": {
+      "title": "Let's See Paul G. Allen's Valentine's Day Card 2",
+      "volume": "",
+      "last_updated": "1676330772",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ZXXSViL"
       }
     }
   }
