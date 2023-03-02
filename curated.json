@@ -1,0 +1,41 @@
+{
+  "title": "Random oneshots",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1677733627",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/b8s1Ow7"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1677733673",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/2yUKWUV"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1677733685",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/PNbGFNz"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "",
+      "last_updated": "1677733697",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/s5kkbUj"
+      }
+    }
+  }
+}
