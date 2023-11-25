@@ -1,0 +1,25 @@
+{
+  "title": "Shoulder Enjoyer works",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "Ahri's Meal",
+      "volume": "",
+      "last_updated": "1700949909",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/2RL2ZPf"
+      }
+    },
+    "2": {
+      "title": "Evelynn's Meal",
+      "volume": "",
+      "last_updated": "1700949934",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/0sONMjl"
+      }
+    }
+  }
+}
