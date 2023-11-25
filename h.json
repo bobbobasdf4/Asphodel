@@ -1,0 +1,25 @@
+{
+  "title": "h",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "Ahri's Meal",
+      "volume": "",
+      "last_updated": "1700949219",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Wck7EaZ"
+      }
+    },
+    "2": {
+      "title": "Evelynn's Meal",
+      "volume": "",
+      "last_updated": "1700949272",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/rPOSio9"
+      }
+    }
+  }
+}
