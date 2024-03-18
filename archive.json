@@ -1,0 +1,41 @@
+{
+  "title": "archive",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "Gantz in Love",
+      "volume": "",
+      "last_updated": "1710725687",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/3StdmtC"
+      }
+    },
+    "2": {
+      "title": "Gamer Girl",
+      "volume": "",
+      "last_updated": "1710725733",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/eexmQv3"
+      }
+    },
+    "3": {
+      "title": "AAA",
+      "volume": "",
+      "last_updated": "1710725753",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/qdPXyEX"
+      }
+    },
+    "4": {
+      "title": "This is Library",
+      "volume": "",
+      "last_updated": "1710725777",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/b8s1Ow7"
+      }
+    }
+  }
+}
