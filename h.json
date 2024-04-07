@@ -4,5 +4,22 @@
   "artist": "",
   "author": "",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Ahri's Meal 1",
+      "volume": "",
+      "last_updated": "1712502469",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/6eyr2x8xl7p"
+      }
+    },
+    "2": {
+      "title": "Man-eating Witch 3",
+      "volume": "",
+      "last_updated": "1712502482",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ne7bpl86j45"
+      }
+    }
+  }
 }
