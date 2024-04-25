@@ -4,30 +4,5 @@
   "artist": "",
   "author": "",
   "cover": "",
-  "chapters": {
-    "1": {
-      "title": "Ahri's Meal 1",
-      "volume": "",
-      "last_updated": "1712502469",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/m9yxv9znq4q"
-      }
-    },
-    "2": {
-      "title": "Man-eating Witch 3",
-      "volume": "",
-      "last_updated": "1712502482",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/ne7bpl86j45"
-      }
-    },
-    "3": {
-      "title": "Succubus Drain 1",
-      "volume": "",
-      "last_updated": "1713701484",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/xny8zrmp2yb"
-      }
-    }
-  }
+  "chapters": {}
 }
