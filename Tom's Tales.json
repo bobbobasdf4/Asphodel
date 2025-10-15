@@ -1,0 +1,25 @@
+{
+  "title": "Tom's Tales",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1760565233",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/dl7pe5dl6yo"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1760565265",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qe4gjp5gr4j"
+      }
+    }
+  }
+}
