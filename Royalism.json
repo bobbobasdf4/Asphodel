@@ -6,7 +6,7 @@
   "cover": "https://imgchest.com/p/5xy22n9vzyl",
   "chapters": {
     "0": {
-      "title": "0",
+      "title": "Chapter 0",
       "volume": "",
       "last_updated": "1760567061",
       "groups": {
@@ -51,14 +51,6 @@
       "last_updated": "1747416003",
       "groups": {
         "": "/proxy/api/imgchest/chapter/ljyqx333k42"
-      }
-    },
-    "3.4": {
-      "title": "Chapter 3.4",
-      "volume": "",
-      "last_updated": "1756327164",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/ljyq22ewxy2"
       }
     }
   }
