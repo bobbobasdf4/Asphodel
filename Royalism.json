@@ -6,7 +6,7 @@
   "cover": "https://imgchest.com/p/5xy22n9vzyl",
   "chapters": {
     "0": {
-      "title": "Chapter 0",
+      "title": "Chapter 0 (JP ver)",
       "volume": "",
       "last_updated": "1760567061",
       "groups": {
@@ -51,6 +51,14 @@
       "last_updated": "1747416003",
       "groups": {
         "": "/proxy/api/imgchest/chapter/ljyqx333k42"
+      }
+    },
+    "0.1": {
+      "title": "Chapter 0 (Eng ver)",
+      "volume": "",
+      "last_updated": "1761318726",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9p4nvvemwyn"
       }
     }
   }
